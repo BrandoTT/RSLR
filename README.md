@@ -13,7 +13,7 @@ the pseudo-labeled samples. To combat the effect of label noise, LNet progressiv
 samples. In combination with class re-balancing to combat the label distribution shift issue, RSLR leads to significant improvements
 over the state-of-the-art methods on extensive benchmark datasets.
 
-![Framework](./structure.pdf)
+![Framework](./structure.png)
 
 ## Example Run
 After creating a virtual environment, run 'pip install -r requirement.txt'
